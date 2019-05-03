@@ -1,5 +1,6 @@
 import React from 'react'
 import {
+    Button,
     Container,
     Divider,
     Dropdown,
@@ -10,6 +11,7 @@ import {
     Menu,
     Segment,
 } from 'semantic-ui-react'
+import BSAFormModal from "./BSAFormModal";
 
 const App = () => (
     <div>
@@ -47,6 +49,10 @@ const App = () => (
             <p>
                 Delightful
             </p>
+
+            <div>
+                <BSAFormModal/>
+            </div>
 
         </Container>
 
