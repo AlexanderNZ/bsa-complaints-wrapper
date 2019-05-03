@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b6dee94d-96de-4d74-a523-08f6b43c85c5/deploy-status)](https://app.netlify.com/sites/upbeat-almeida-df7c8d/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
